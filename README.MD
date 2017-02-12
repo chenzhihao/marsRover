@@ -38,7 +38,7 @@ npm run test
 
 Basically I used OO design for 3 classes:
 
-- Plateau - Used to limit the ordinates how far away the rovers can move to. It has no idea of rovers.
+- Plateau - Used to limit how far away the rovers can move to. It has no idea of rovers.
 
 - Rover - Rover can turn left, turn right and move forward one step. One rover has no idea of other rover nor plateau. 
 
