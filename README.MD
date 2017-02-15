@@ -42,10 +42,6 @@ Basically I used OO design for 3 classes:
 
 - Rover - Rover can turn left, turn right and move forward one step. One rover has no idea of other rover nor plateau. 
 
-It also have a interface to check moving strategy - if it can move forward anymore(It should not move out the plateau.)
-It's a flexible interface so we can add other restrict.
- For example, we can limit all the rovers can't stand at a same coordinate by using this interface.
-
 - Controller - It's used to
     - connect Plateau and Rovers
     
