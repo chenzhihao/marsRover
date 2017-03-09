@@ -78,3 +78,4 @@ Basically I used OO design for 3 classes:
 When there is input error(the coordinate is negative or decimal, and etc) or logic error(rover was deployed out plateau, and etc.)
 The code will throw error.
 
+## I also build a GUI on top of it: https://github.com/chenzhihao/marsRoverGUI
